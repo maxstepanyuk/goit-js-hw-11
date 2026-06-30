@@ -7,7 +7,7 @@ import {
   createGallery,
   hideLoader,
   showLoader,
-} from './js/render-function';
+} from './js/render-functions';
 
 const form = document.querySelector('.form');
 
